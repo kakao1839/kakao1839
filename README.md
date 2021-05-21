@@ -1,5 +1,5 @@
 # Kakao
-NIT,Okinawa College　Student.  
+NIT,Okinawa College Student.  
 18 years/old  
 
 # Output
