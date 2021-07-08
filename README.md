@@ -4,7 +4,7 @@ NIT,Okinawa College Student.
 
 # Output
 Qiita: https://qiita.com/kakao1839  
-Twitter: https://twitter.com/@KwxXc 
+Twitter: https://twitter.com/@KwxXc   
 blog: https://kakao.hateblo.jp  
 Portfolio: https://kakao1839.github.io/I_am_kakao2/  
 
