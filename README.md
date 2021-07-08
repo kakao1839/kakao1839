@@ -9,7 +9,7 @@ blog: https://kakao.hateblo.jp
 Portfolio: https://kakao1839.github.io/I_am_kakao2/  
 
 # Learn
-Web front
+Web front  
 PHP -Laravel  
 Python -Machine Learning  
 Kotlin -Android  
